@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Google Maps</string>
+    <string name="maps_key" translatable="false">AIzaSyAL_F7ogThZ_XmX757aznSajC3icky3T88</string>
+    <string name="search">Search...</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
